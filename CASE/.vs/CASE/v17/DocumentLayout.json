@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tugce\\source\\repos\\CASE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF49090-42E7-A6CA-7333-88E768461EA8}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\tugce\\source\\repos\\case\\ecommerceapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF49090-42E7-A6CA-7333-88E768461EA8}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF49090-42E7-A6CA-7333-88E768461EA8}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\tugce\\source\\repos\\case\\ecommerceapi\\migrations\\20250411133133_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF49090-42E7-A6CA-7333-88E768461EA8}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\migrations\\20250411133133_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF49090-42E7-A6CA-7333-88E768461EA8}|ECommerceAPI\\ECommerceAPI.csproj|c:\\users\\tugce\\source\\repos\\case\\ecommerceapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF49090-42E7-A6CA-7333-88E768461EA8}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250411133133_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\tugce\\source\\repos\\CASE\\ECommerceAPI\\Migrations\\20250411133133_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Migrations\\20250411133133_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\tugce\\source\\repos\\CASE\\ECommerceAPI\\Migrations\\20250411133133_InitialCreate.cs",
+              "RelativeToolTip": "ECommerceAPI\\Migrations\\20250411133133_InitialCreate.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAhwD4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:12:10.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\tugce\\source\\repos\\CASE\\ECommerceAPI\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\tugce\\source\\repos\\CASE\\ECommerceAPI\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ECommerceAPI\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T18:08:45.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\tugce\\source\\repos\\CASE\\ECommerceAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\tugce\\source\\repos\\CASE\\ECommerceAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ECommerceAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAawGMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T16:30:03.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
